@@ -1,7 +1,11 @@
+# Windows Forms for MS SQL DataBase Music Catalog.
+Windows Forms was created on .NET 4.7.2.
+****There are 12 forms, 5 of them for administrator and 7 for user.** <br/>
+**There is a dataset Музыкальный_каталогDataSet, but it will not work without MS SQL Server.**
 # Windows Forms для музыкального каталога базы данных MS SQL.
 Windows Forms была создана на .NET 4.7.2.
 **В проекте 12 форм, 5 из них для администратора и 7 для пользователя.** <br/>
-**Есть набор данных - Музыкальный_каталогDataSet.**
+**Есть набор данных - Музыкальный_каталогDataSet, но он не будет работает без MS SQL сервера**
 # 6 РЕАЛИЗАЦИЯ ПРОЕКТА
 
 ![image](https://github.com/VladMursalimov/musicCatalog/assets/74963780/81c846fa-81ad-404b-aa3a-2d0101ece026)
